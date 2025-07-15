@@ -1,12 +1,12 @@
 # linux-shell-scripting-comments
 
-comments are essential notes to the programmer and anyone else who might read the code. comments can be single line comments or multiple line comments
+created commented_script.sh file and wrote the script in the screenshot attached. the file permission for the script was properly set to be executable. 
+![commented script](./img/1.jpg)
 
-screenshots below:
-![sigle comment](./img/1.jpg)
-![sigle comment](./img/2.jpg)
-![multiple comments](./img/3.jpg)
-![multiple comments](./img/4.jpg)
+Both single line comments and multiple line comments were used in the script. Script was executed and the output is demonstrated in the screenhsots below:
+
+![commented](./img/2.jpg)
+![commented](./img/3.jpg)
 
 ## Best Practices for Commenting
 - comments should be clear and concise
